@@ -1,0 +1,11 @@
+.titles {
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.rows {
+    &:hover {
+        cursor: pointer;
+    }
+}
