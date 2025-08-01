@@ -1,7 +1,8 @@
 # To run the project
 
-Install packages with: npm i
-Run the project with: npm run dev
+Install packages with: **npm i**
+
+Run the project with: **npm run dev**
 
 # React + TypeScript + Vite
 
